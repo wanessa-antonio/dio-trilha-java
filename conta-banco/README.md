@@ -7,17 +7,9 @@
 
 # Codifique o seguinte cenário:
 
-1- Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco (observe a tabela abaixo). 
+1- Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco . 
 
 2- Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
-_________________________________________
-| Atributo:    | Tipo:    | Exemplo:      |
-|______________|__________|_______________|
-| Numero       | Inteiro  | 1021          |
-| Agencia      | Texto    | 067-8         |
-| Nome Cliente | Texto    | MARIO ANDRADE |
-| Saldo        | Decimal  |237.48         |
-|______________|__________|_______________|
 
 
 = Revise sobre regras de declaração de variáveis.
